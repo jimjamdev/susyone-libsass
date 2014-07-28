@@ -2,7 +2,7 @@
 // Imports
 
 // We need access to some basic font settings for handling media-queries.
-@import "../../../harp-compass/scss/typography/vertical_rhythm";
+@import "../../compass/compass/scss/typography/vertical_rhythm";
 
 // For now, we also need this...
 $browser-default-font-size-px       : 16px;
